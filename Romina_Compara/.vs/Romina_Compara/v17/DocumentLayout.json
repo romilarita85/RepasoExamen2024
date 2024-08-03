@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB948B7-C89C-40F0-B780-6A4AF712652C}|LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\libreriadecomputadoras\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB948B7-C89C-40F0-B780-6A4AF712652C}|LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj|solutionrelative:libreriadecomputadoras\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\Class1.cs",
+              "RelativeDocumentMoniker": "LibreriaDeComputadoras\\Class1.cs",
+              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\Class1.cs",
+              "RelativeToolTip": "LibreriaDeComputadoras\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:44:38.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
