@@ -1,0 +1,16 @@
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\bin\Debug\net8.0\LibreriaDeAutos.deps.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\bin\Debug\net8.0\LibreriaDeAutos.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\bin\Debug\net8.0\LibreriaDeAutos.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\bin\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\bin\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.csproj.AssemblyReference.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.AssemblyInfoInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.AssemblyInfo.cs
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.sourcelink.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\Libreria.CAB444C4.Up2Date
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\refint\LibreriaDeAutos.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\LibreriaDeAutos.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeAutos\obj\Debug\net8.0\ref\LibreriaDeAutos.dll
