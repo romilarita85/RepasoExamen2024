@@ -121,7 +121,6 @@
             Controls.Add(lbl_legajo);
             Name = "FormAltaAlumno";
             Text = "Alta alumno";
-            Load += FormAltaAlumno_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -18,10 +18,7 @@ namespace FormAlumnos
         {
             InitializeComponent();
         }
-        private void FormAltaAlumno_Load(object sender, EventArgs e)
-        {
 
-        }
         private void btn_agregar_Click(object sender, EventArgs e)
         {    
             string legajo = txt_legajo.Text;

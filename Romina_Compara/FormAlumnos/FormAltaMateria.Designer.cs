@@ -42,7 +42,6 @@
             label1.Size = new Size(51, 15);
             label1.TabIndex = 0;
             label1.Text = "Nombre";
-            label1.Click += label1_Click;
             // 
             // txt_materia
             // 
@@ -82,7 +81,6 @@
             Controls.Add(label1);
             Name = "FormAltaMateria";
             Text = "Alta materia";
-            Load += FormAltaMateria_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -22,11 +22,6 @@ namespace FormAlumnos
             InitializeComponent();
         }
 
-        private void FormAltaMateria_Load(object sender, EventArgs e)
-        {
-            
-        }
-
         private void btn_aceptar_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(txt_materia.Text) && txt_materia.Text is not null && txt_materia.Text != "")

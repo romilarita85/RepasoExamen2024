@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormAlumnos/1.0.0": {
+        "dependencies": {
+          "Libreria_De_Estudiante": "1.0.0"
+        },
+        "runtime": {
+          "FormAlumnos.dll": {}
+        }
+      },
+      "Libreria_De_Estudiante/1.0.0": {
+        "runtime": {
+          "Libreria_De_Estudiante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormAlumnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria_De_Estudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

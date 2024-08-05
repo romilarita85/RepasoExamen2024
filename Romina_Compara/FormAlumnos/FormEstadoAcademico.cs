@@ -14,19 +14,19 @@ namespace FormAlumnos
     public partial class FormEstadoAcademico : Form
     {
         private Alumno alumno;
-        private string carrera;
         private List<Materia> materias;
+        private string carrera;
 
         public FormEstadoAcademico()//constructor vacio
         {
             InitializeComponent();
         }
 
-        public FormEstadoAcademico(Alumno alumno, string carrera, List<Materia> materias):this()
-        {//constructor con parametros
+        public FormEstadoAcademico(Alumno alumno, List<Materia> materias, string carrera):this()
+        {
             this.alumno = alumno;
-            this.carrera = carrera;
             this.materias = materias;
+            this.carrera = carrera;
         }
 
         private void FormEstadoAcademico_Load(object sender, EventArgs e)

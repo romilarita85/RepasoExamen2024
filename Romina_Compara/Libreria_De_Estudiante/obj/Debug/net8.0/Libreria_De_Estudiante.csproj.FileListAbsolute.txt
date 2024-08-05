@@ -1,0 +1,12 @@
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\bin\Debug\net8.0\Libreria_De_Estudiante.deps.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\bin\Debug\net8.0\Libreria_De_Estudiante.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\bin\Debug\net8.0\Libreria_De_Estudiante.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.AssemblyInfoInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.AssemblyInfo.cs
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.sourcelink.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\refint\Libreria_De_Estudiante.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\Libreria_De_Estudiante.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\Libreria_De_Estudiante\obj\Debug\net8.0\ref\Libreria_De_Estudiante.dll
