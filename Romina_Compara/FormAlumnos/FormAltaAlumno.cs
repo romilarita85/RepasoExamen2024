@@ -28,6 +28,7 @@ namespace FormAlumnos
             string nombre = txt_nombre.Text;
             string apellido = txt_apellido.Text;
 
+            nuevoAlumno = new Alumno(legajo,nombre,apellido);
             DialogResult = DialogResult.OK;
         }
 
@@ -35,7 +36,5 @@ namespace FormAlumnos
         {
             DialogResult = DialogResult.Cancel;
         }
-
-  
     }
 }

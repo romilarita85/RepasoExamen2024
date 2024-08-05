@@ -81,6 +81,7 @@
             btn_agregarAlumno.TabIndex = 4;
             btn_agregarAlumno.Text = "Agegar alumno";
             btn_agregarAlumno.UseVisualStyleBackColor = true;
+            btn_agregarAlumno.Click += btn_agregarAlumno_Click;
             // 
             // btn_agregarMateria
             // 
@@ -90,6 +91,7 @@
             btn_agregarMateria.TabIndex = 5;
             btn_agregarMateria.Text = "Agregar materia";
             btn_agregarMateria.UseVisualStyleBackColor = true;
+            btn_agregarMateria.Click += btn_agregarMateria_Click;
             // 
             // btn_estadoAcad
             // 
@@ -99,6 +101,7 @@
             btn_estadoAcad.TabIndex = 6;
             btn_estadoAcad.Text = "Estado academico";
             btn_estadoAcad.UseVisualStyleBackColor = true;
+            btn_estadoAcad.Click += btn_estadoAcad_Click;
             // 
             // FormPrincipal
             // 

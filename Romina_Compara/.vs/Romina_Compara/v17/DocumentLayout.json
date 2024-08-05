@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F0AA49-3DC6-429F-B776-E7E2C26F7617}|Libreria_De_Estudiante\\Libreria_De_Estudiante.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\libreria_de_estudiante\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F0AA49-3DC6-429F-B776-E7E2C26F7617}|Libreria_De_Estudiante\\Libreria_De_Estudiante.csproj|solutionrelative:libreria_de_estudiante\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F0AA49-3DC6-429F-B776-E7E2C26F7617}|Libreria_De_Estudiante\\Libreria_De_Estudiante.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\libreria_de_estudiante\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F0AA49-3DC6-429F-B776-E7E2C26F7617}|Libreria_De_Estudiante\\Libreria_De_Estudiante.csproj|solutionrelative:libreria_de_estudiante\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27745930-FD15-482B-B86E-CFA6B2F0A269}|FormAlumnos\\FormAlumnos.csproj|solutionrelative:formalumnos\\formaltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormAltaMateria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaMateria.cs",
-              "RelativeDocumentMoniker": "FormAlumnos\\FormAltaMateria.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaMateria.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormAlumnos\\FormAltaMateria.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:02:04.392Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -69,9 +48,9 @@
               "RelativeDocumentMoniker": "FormAlumnos\\FormEstadoAcademico.cs",
               "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormEstadoAcademico.cs",
               "RelativeToolTip": "FormAlumnos\\FormEstadoAcademico.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAADgvw8AAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:04:00.015Z",
+              "WhenOpened": "2024-08-05T00:25:04.35Z",
               "EditorCaption": ""
             },
             {
@@ -82,88 +61,60 @@
               "RelativeDocumentMoniker": "Libreria_De_Estudiante\\Materia.cs",
               "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\Libreria_De_Estudiante\\Materia.cs",
               "RelativeToolTip": "Libreria_De_Estudiante\\Materia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wDQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:58:37.237Z",
+              "WhenOpened": "2024-08-05T00:22:38.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FormAltaMateria.cs",
               "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaMateria.cs",
               "RelativeDocumentMoniker": "FormAlumnos\\FormAltaMateria.cs",
               "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaMateria.cs",
               "RelativeToolTip": "FormAlumnos\\FormAltaMateria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:54:21.091Z",
+              "WhenOpened": "2024-08-05T00:21:34.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormAltaAlumno.cs",
               "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaAlumno.cs",
               "RelativeDocumentMoniker": "FormAlumnos\\FormAltaAlumno.cs",
               "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaAlumno.cs",
               "RelativeToolTip": "FormAlumnos\\FormAltaAlumno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:51:03.75Z",
+              "WhenOpened": "2024-08-05T00:19:29.984Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormAltaAlumno.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaAlumno.cs",
-              "RelativeDocumentMoniker": "FormAlumnos\\FormAltaAlumno.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormAltaAlumno.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormAlumnos\\FormAltaAlumno.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:03:37.102Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormEstadoAcademico.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormEstadoAcademico.cs",
-              "RelativeDocumentMoniker": "FormAlumnos\\FormEstadoAcademico.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormEstadoAcademico.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormAlumnos\\FormEstadoAcademico.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:02:31.257Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormAlumnos\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormAlumnos\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:14:01.455Z",
+              "WhenOpened": "2024-08-05T00:15:36.612Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\Libreria_De_Estudiante\\Alumno.cs",
-              "RelativeDocumentMoniker": "Libreria_De_Estudiante\\Alumno.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\Libreria_De_Estudiante\\Alumno.cs",
-              "RelativeToolTip": "Libreria_De_Estudiante\\Alumno.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wAYAAAAgAAAA",
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormAlumnos\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAlumnos\\FormPrincipal.cs",
+              "RelativeToolTip": "FormAlumnos\\FormPrincipal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:54:20.445Z",
+              "WhenOpened": "2024-08-04T23:56:17.815Z",
               "EditorCaption": ""
             }
           ]
