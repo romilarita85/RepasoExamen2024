@@ -4,28 +4,29 @@ namespace LibreriaDeIngresantes
 {
     public class Ingresante
     {
-        private List<string> cursos;
-        private string direccion;
+        private string nombre;
+        private string apellido;
         private int edad;
         private string genero;
-        private string nombre;
-        private string paises;
+        private string pais;
+        private List<string> cursos;
 
-        public Ingresante(List<string> cursos, string direccion, int edad, string genero, string nombre, string paises)
+        public Ingresante(string nombre, string apellido, int edad, string genero, string pais, List<string> cursos)
         {
-            this.cursos = cursos;
-            this.direccion = direccion;
+            this.nombre = nombre;
+            this.apellido = apellido;
             this.edad = edad;
             this.genero = genero;
-            this.nombre = nombre;
-            this.paises = paises;
+            this.pais = pais;
+            this.cursos = cursos;
         }
-       
-        public string Direccion { get => direccion; set => direccion = value; }
+
+        public string Nombre { get => nombre; set => nombre = value; }
+        public string Apellido { get => apellido; set => apellido = value; }
         public int Edad { get => edad; set => edad = value; }
         public string Genero { get => genero; set => genero = value; }
-        public string Nombre { get => nombre; set => nombre = value; }
-        public string Paises { get => paises; set => paises = value; }
+        public string Pais { get => pais; set => pais = value; }
+
         //lista de string genera problemas al usar DataGrew
         //Solucion ->usar StringBuilder
         public string Cursos
@@ -50,7 +51,6 @@ namespace LibreriaDeIngresantes
                                      //cadena de texto y retorna el resultado concatenado.   
             }
         }
-
 
         //public string Mostrar() 
         //{

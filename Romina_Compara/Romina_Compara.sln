@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testeo_ClaseAlumno", "Teste
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libreria_De_Estudiante", "Libreria_De_Estudiante\Libreria_De_Estudiante.csproj", "{E7F0AA49-3DC6-429F-B776-E7E2C26F7617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormRegistrate", "FormRegistrate\FormRegistrate.csproj", "{B78DE1B5-ED32-4241-9197-A338F380E673}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormRegistrate", "FormRegistrate\FormRegistrate.csproj", "{B78DE1B5-ED32-4241-9197-A338F380E673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDeIngresantes", "LibreriaDeIngresantes\LibreriaDeIngresantes.csproj", "{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeIngresantes", "LibreriaDeIngresantes\LibreriaDeIngresantes.csproj", "{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLapiceras", "FormLapiceras\FormLapiceras.csproj", "{4A053E47-4CFD-4FD2-9B08-54B3D4330587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormComputadora", "FormComputadora\FormComputadora.csproj", "{211495D0-E619-4517-AE2A-B1A76243108C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A053E47-4CFD-4FD2-9B08-54B3D4330587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A053E47-4CFD-4FD2-9B08-54B3D4330587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A053E47-4CFD-4FD2-9B08-54B3D4330587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A053E47-4CFD-4FD2-9B08-54B3D4330587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211495D0-E619-4517-AE2A-B1A76243108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211495D0-E619-4517-AE2A-B1A76243108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211495D0-E619-4517-AE2A-B1A76243108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211495D0-E619-4517-AE2A-B1A76243108C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
