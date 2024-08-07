@@ -1,0 +1,9 @@
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.csproj.AssemblyReference.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.FormAlta.resources
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.Form1.resources
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.csproj.GenerateResource.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.AssemblyInfoInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.AssemblyInfo.cs
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.csproj.CoreCompileInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\FormComputadora\obj\Debug\net8.0-windows\FormComputadora.sourcelink.json

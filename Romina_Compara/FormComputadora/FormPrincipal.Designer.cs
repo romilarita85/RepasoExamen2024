@@ -28,44 +28,47 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
-            button1 = new Button();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            dgv_computadoras = new DataGridView();
+            btn_agregar = new Button();
+            ((System.ComponentModel.ISupportInitialize)dgv_computadoras).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // dgv_computadoras
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(66, 37);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(654, 325);
-            dataGridView1.TabIndex = 0;
+            dgv_computadoras.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgv_computadoras.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgv_computadoras.Location = new Point(46, 37);
+            dgv_computadoras.Name = "dgv_computadoras";
+            dgv_computadoras.Size = new Size(842, 325);
+            dgv_computadoras.TabIndex = 0;
             // 
-            // button1
+            // btn_agregar
             // 
-            button1.Location = new Point(329, 392);
-            button1.Name = "button1";
-            button1.Size = new Size(128, 34);
-            button1.TabIndex = 1;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btn_agregar.Location = new Point(420, 390);
+            btn_agregar.Name = "btn_agregar";
+            btn_agregar.Size = new Size(128, 34);
+            btn_agregar.TabIndex = 1;
+            btn_agregar.Text = "Agregar";
+            btn_agregar.UseVisualStyleBackColor = true;
+            btn_agregar.Click += btn_agregar_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(button1);
-            Controls.Add(dataGridView1);
+            ClientSize = new Size(945, 450);
+            Controls.Add(btn_agregar);
+            Controls.Add(dgv_computadoras);
             Name = "Form1";
-            Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            Text = "Computadoras";
+            Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)dgv_computadoras).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
-        private Button button1;
+        private DataGridView dgv_computadoras;
+        private Button btn_agregar;
     }
 }

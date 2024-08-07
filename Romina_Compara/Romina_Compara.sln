@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormRegistrate", "FormRegis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeIngresantes", "LibreriaDeIngresantes\LibreriaDeIngresantes.csproj", "{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLapiceras", "FormLapiceras\FormLapiceras.csproj", "{4A053E47-4CFD-4FD2-9B08-54B3D4330587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormLapiceras", "FormLapiceras\FormLapiceras.csproj", "{4A053E47-4CFD-4FD2-9B08-54B3D4330587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormComputadora", "FormComputadora\FormComputadora.csproj", "{211495D0-E619-4517-AE2A-B1A76243108C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormComputadora", "FormComputadora\FormComputadora.csproj", "{211495D0-E619-4517-AE2A-B1A76243108C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_Computadora", "Form_Computadora\Form_Computadora.csproj", "{08842F19-5A55-45EC-A7CA-B18A9CF2A382}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{211495D0-E619-4517-AE2A-B1A76243108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211495D0-E619-4517-AE2A-B1A76243108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211495D0-E619-4517-AE2A-B1A76243108C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08842F19-5A55-45EC-A7CA-B18A9CF2A382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08842F19-5A55-45EC-A7CA-B18A9CF2A382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08842F19-5A55-45EC-A7CA-B18A9CF2A382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08842F19-5A55-45EC-A7CA-B18A9CF2A382}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
