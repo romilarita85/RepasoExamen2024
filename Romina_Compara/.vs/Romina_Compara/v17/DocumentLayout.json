@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A053E47-4CFD-4FD2-9B08-54B3D4330587}|FormLapiceras\\FormLapiceras.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A053E47-4CFD-4FD2-9B08-54B3D4330587}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{211495D0-E619-4517-AE2A-B1A76243108C}|FormComputadora\\FormComputadora.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{211495D0-E619-4517-AE2A-B1A76243108C}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A053E47-4CFD-4FD2-9B08-54B3D4330587}|FormLapiceras\\FormLapiceras.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formlapiceras\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A053E47-4CFD-4FD2-9B08-54B3D4330587}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formaltalapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}|LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\libreriadeingresantes\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66D84DF2-21C2-40DB-A13C-1E4C9B6C287C}|LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj|solutionrelative:libreriadeingresantes\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{211495D0-E619-4517-AE2A-B1A76243108C}|FormComputadora\\FormComputadora.csproj|c:\\users\\romi\\desktop\\repasoexamen2024\\romina_compara\\formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{211495D0-E619-4517-AE2A-B1A76243108C}|FormComputadora\\FormComputadora.csproj|solutionrelative:formcomputadora\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormLapiceras\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormLapiceras\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormLapiceras\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormLapiceras\\FormPrincipal.cs [Dise\u00F1o]",
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormComputadora\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormComputadora\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormComputadora\\FormAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T14:13:12.507Z",
+              "WhenOpened": "2024-08-07T01:19:52.67Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormAltaLapicera.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormLapiceras\\FormAltaLapicera.cs",
-              "RelativeDocumentMoniker": "FormLapiceras\\FormAltaLapicera.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormLapiceras\\FormAltaLapicera.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormLapiceras\\FormAltaLapicera.cs [Dise\u00F1o]",
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormComputadora\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormComputadora\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormComputadora\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormComputadora\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T14:13:07.357Z",
+              "WhenOpened": "2024-08-07T01:18:17.896Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ingresante.cs",
-              "DocumentMoniker": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\Ingresante.cs",
-              "RelativeDocumentMoniker": "LibreriaDeIngresantes\\Ingresante.cs",
-              "ToolTip": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\Ingresante.cs",
-              "RelativeToolTip": "LibreriaDeIngresantes\\Ingresante.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAuwBEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:37:17.984Z",
-              "EditorCaption": ""
             }
           ]
         }

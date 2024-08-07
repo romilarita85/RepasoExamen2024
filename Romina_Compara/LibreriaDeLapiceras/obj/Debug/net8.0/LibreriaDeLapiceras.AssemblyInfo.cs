@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDeLapiceras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0767bb392b81ee1f38a3f21f16bcd6bb771afa47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7baa74eae85dac3ba65e070ac9177c4782dd588a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDeLapiceras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDeLapiceras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

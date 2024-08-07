@@ -1,0 +1,12 @@
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.deps.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfoInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfo.cs
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.csproj.CoreCompileInputs.cache
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.sourcelink.json
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\refint\LibreriaDeLapiceras.dll
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\romi\Desktop\RepasoExamen2024\Romina_Compara\LibreriaDeLapiceras\obj\Debug\net8.0\ref\LibreriaDeLapiceras.dll
