@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj": {}
+    "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj": {
+    "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj",
         "projectName": "LibreriaDeComputadoras",
-        "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj",
-        "packagesPath": "C:\\Users\\romi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\LibreriaDeComputadoras.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeComputadoras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\romi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

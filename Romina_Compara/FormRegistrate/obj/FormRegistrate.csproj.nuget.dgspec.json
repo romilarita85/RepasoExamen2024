@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj": {}
+    "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj": {
+    "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj",
         "projectName": "FormRegistrate",
-        "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj",
-        "packagesPath": "C:\\Users\\romi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\FormRegistrate.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormRegistrate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\romi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj": {
-                "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj"
+              "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj": {
+    "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj",
         "projectName": "LibreriaDeIngresantes",
-        "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj",
-        "packagesPath": "C:\\Users\\romi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\LibreriaDeIngresantes.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeIngresantes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\romi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -127,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\romi\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAuto\\FormAuto.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormAuto\\FormAuto.csproj",
       "projectName": "FormAuto",
-      "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAuto\\FormAuto.csproj",
-      "packagesPath": "C:\\Users\\romi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\FormAuto\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormAuto\\FormAuto.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\FormAuto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\romi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,8 +71,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeAutos\\LibreriaDeAutos.csproj": {
-              "projectPath": "C:\\Users\\romi\\Desktop\\RepasoExamen2024\\Romina_Compara\\LibreriaDeAutos\\LibreriaDeAutos.csproj"
+            "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeAutos\\LibreriaDeAutos.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\MisProyectos\\RepasoExamen2024\\Romina_Compara\\LibreriaDeAutos\\LibreriaDeAutos.csproj"
             }
           }
         }
@@ -110,7 +110,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
